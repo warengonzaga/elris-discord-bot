@@ -48,7 +48,7 @@ Read the project's [code of conduct](./code_of_conduct.md).
 
 ## 📃 License
 
-Elris (Discord Bot) is licensed under [The MIT License](https://opensource.org/licenses/MIT).
+Elris (Discord Bot) is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
 
 ## 📝 Author
 
