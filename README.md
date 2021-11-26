@@ -34,8 +34,7 @@ If you're facing a problem in using Elris (Discord Bot) please [check the commun
 
 > Love what I do? **[Send me some coffees](https://buymeacoff.ee/wareneutron)**! ☕☕☕
 >
-> Can't send coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead!
-> Your coffee donation and support will help me to continue working on open-source projects like this. 🙏😇
+> Can't send coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead. Your coffee donation and support will help me to continue working on open-source projects like this. 🙏😇
 
 ## 🌏 Community
 
